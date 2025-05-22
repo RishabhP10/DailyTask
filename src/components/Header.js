@@ -1,8 +1,8 @@
 import { useEffect, useState } from "react";
-import Logo from "../assets/logo.jpeg";
+import Logo from "../assets/task.png";
 export const Header = () => {
     
-    const[theme , setTheme] = useState(JSON.parse(localStorage.getItem("theme")) || "medium") 
+    const[theme , setTheme] = useState(JSON.parse(localStorage.getItem("theme")) || "gOne") 
 
     useEffect(() => {
 

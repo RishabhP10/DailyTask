@@ -98,6 +98,8 @@ header .themeSelector .activeTheme{
   background-color: #FFFFFF;
   margin: 20px auto;
   box-shadow: var(--box-shadow);
+  max-width: 800px;
+  width: 100%;
 }
 
 .showTask div.head{
@@ -191,6 +193,7 @@ header .themeSelector .activeTheme{
   color: #D82148;
   cursor: pointer;
 }
+
 
 @media only screen and (max-width: 800px) {
   .showTask li{

@@ -32,8 +32,6 @@ function App() {
         setTask={setTask}
       
       />
-     
-      <h1>hello rishabh</h1>
     </div>
   );
 }
