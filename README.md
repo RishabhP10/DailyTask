@@ -1,4 +1,6 @@
 <<<<<<< HEAD
+# Live
+https://regulartask.netlify.app/
 # DailyTask
 =======
 # Getting Started with Create React App
